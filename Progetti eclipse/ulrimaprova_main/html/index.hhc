@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PROGETTOPROVA_LIBR"><param name="Local" value="dir_6dce8faa6558edb924d4064cbb803bd1.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_d6a9b815bc61fcd895890af248aab1a8.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PROGETTOPROVA_LIBR.c"><param name="Local" value="_p_r_o_g_e_t_t_o_p_r_o_v_a___l_i_b_r_8c_source.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PROGETTOPROVA_LIBR.h"><param name="Local" value="_p_r_o_g_e_t_t_o_p_r_o_v_a___l_i_b_r_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
